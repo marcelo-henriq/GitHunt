@@ -17,18 +17,16 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Tabela de Conteúdo
+## Content
 
-- [Sobre o Projeto](#sobre-o-projeto)
-  - [Feito Com](#feito-com)
-- [Começando](#come%C3%A7ando)
-  - [Pré-requisitos](#pr%C3%A9-requisitos)
-  - [Estrutura de Arquivos](#estrutura-de-arquivos)
-- [Contato](#contato)
+- [About this project](#about-this-project)
+  - [Made with](#made-with)
+- [Starting](#sta%C3%rting)
+  - [File structure](#file-structure)
 
 <!-- ABOUT THE PROJECT -->
 
-## Sobre o Projeto
+## About this project
 
 
 GitHunt an app to stay on top of what happens on GitHub in a way
@@ -40,7 +38,7 @@ Trendings
 Near to you
 Specific technologies
 
-### Feito Com
+### Made with
 
 Below is what was used in the creation of this Project:
 
@@ -56,7 +54,7 @@ Below is what was used in the creation of this Project:
 
 Find new repositories, track trends, see what's happening in the GitHub community
 
-### Estrutura de Arquivos
+### Flie structure
 
 The file structure is as follows:
 
