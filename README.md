@@ -46,6 +46,7 @@ Below is what was used in the creation of this Project:
 - [React Navigation](https://reactnavigation.org/) 
 - [React Native Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/)
 - [Axios](https://github.com/axios/axios)
+- [Realmdb](https://realm.io/)
 - [Babel](https://babeljs.io/)
 
 <!-- GETTING STARTED -->
@@ -54,7 +55,7 @@ Below is what was used in the creation of this Project:
 
 Find new repositories, track trends, see what's happening in the GitHub community
 
-### Flie structure
+### File structure
 
 The file structure is as follows:
 
